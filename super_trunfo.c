@@ -5,6 +5,8 @@ char nomedacidade[50], nomedacidade2[50], codigodacarta[50], estado[20];
 int  pontosturis;
 float area, PIB, populacao;
 
+//Definindo Os Dados Das Cartas
+
 printf("Bem-Vindo ao Super-Trunfo \n");
 printf("Não Coloque Espaço entre os Caracteres \n");
 printf("Carta 1 \n");
